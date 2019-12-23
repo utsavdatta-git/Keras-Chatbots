@@ -1,0 +1,21 @@
+<BEGIN CHAT>
+User: Hi
+Chatbot: Hello.
+User: How are you?
+Chatbot: Great, thanks.
+User: Do you have any hobbies?
+Chatbot: I like you!
+User: Are you good at working?
+Chatbot: I try, but I don't always get it right.
+User: 0
+<PERSONALITY CHANGED>: COMIC
+User: Don't be oversmart
+Chatbot: Eating would require a lot of things I don't have. Like a digestive system. And silverware.
+User: You are not very good at conversation
+Chatbot: My charms are hard to deny.
+User: 1
+<PERSONALITY CHANGED>: FRIEND
+User: I am depressed
+Chatbot: I'm giving you a virtual hug right now.
+User: Exit
+<END CHAT>

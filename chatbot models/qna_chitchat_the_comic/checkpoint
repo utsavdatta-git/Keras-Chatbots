@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/My Drive/COMP5046 Assignment 1/qna_chitchat_the_comic/seq2seq_model_qna_chitchat_the_comic.ckpt"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/COMP5046 Assignment 1/qna_chitchat_the_comic/seq2seq_model_qna_chitchat_the_comic.ckpt"
