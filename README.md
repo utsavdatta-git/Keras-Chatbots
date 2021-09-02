@@ -1,4 +1,4 @@
-# KERAD CHATBOTS
+# KERAS CHATBOTS
   
 Chatbots (Chat-oriented Conversational Agent) are designed to handle full conversations, mimicking the unstructured flow of a human to human conversation. In this project, I have tried to implement a basic (chit-chat) chatbot using Sequence to Sequence (seq2seq) model and Word Embeddings (Glove). First, I have created a baseline model using a Sequential keras model with a bi-directional LSTM layer. Then, I improved on it using a seq2seq model architecture (using just a basic RNN cell from Tensorflow) and fastText word embeddings.
 Additionally, the chatbot created using seq2seq model is personality driven (Professional, Friendly and Comic) and the user can choose to change the personality of the chatbot anytime during the conversation.
